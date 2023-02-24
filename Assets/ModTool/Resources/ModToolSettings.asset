@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1009295391, guid: b981ac5fea65cbf46ab728daad9c9206, type: 3}
+  m_Name: ModToolSettings
+  m_EditorClassIdentifier: 
+  _productName: CloserVoid
+  _unityVersion: 2020.3.20f1
+  _supportedPlatforms: 15
+  _supportedContent: 7
+  _logLevel: 4
+  _sharedAssets:
+  - Assets/BasePostProcessData.asset
+  - Assets/BaseURPShaderVariants.shadervariants
+  - Assets/Imported/_/Base/UniversalRenderPipelineAsset.asset
+  - Assets/Imported/Settings/ForwardRenderer.asset
+  - Assets/Imported/Settings/SampleSceneProfile.asset
+  - Assets/Imported/Settings/UniversalRP-HighQuality.asset
+  - Assets/Imported/Settings/UniversalRP-LowQuality.asset
+  - Assets/Imported/Settings/UniversalRP-MediumQuality.asset
+  - Assets/Presets/AudioCompressedInMemory.preset
+  - Assets/Presets/AudioStreaming.preset
+  - Assets/Presets/Defaults/AlbedoTexture_Default.preset
+  - Assets/Presets/Defaults/AudioDecompressOnLoad.preset
+  - Assets/Presets/Defaults/DirectionalLight_Default.preset
+  - Assets/Presets/NormalTexture.preset
+  - Assets/Presets/UtilityTexture.preset
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/Amaryllis Spec Ops.fbx
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/Materials/N00_000_00_Body_00_SKIN
+    (Instance).mat
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/Materials/N00_000_00_EyeHighlight_00_EYE
+    (Instance).mat
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/Materials/N00_000_00_EyeIris_00_EYE
+    (Instance).mat
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/Materials/N00_000_00_EyeWhite_00_EYE
+    (Instance).mat
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/Materials/N00_000_00_Face_00_SKIN
+    (Instance).mat
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/Materials/N00_000_00_FaceBrow_00_FACE
+    (Instance).mat
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/Materials/N00_000_00_FaceEyelash_00_FACE
+    (Instance).mat
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/Materials/N00_000_00_FaceEyeline_00_FACE
+    (Instance).mat
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/Materials/N00_000_00_FaceMouth_00_FACE
+    (Instance).mat
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/Materials/N00_000_00_HairBack_00_HAIR
+    (Instance).mat
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/Materials/N00_000_Hair_00_HAIR
+    (Instance).mat
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/Materials/N00_007_01_Tops_01_CLOTH
+    (Instance).mat
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/Materials/N00_007_03_Tops_01_CLOTH
+    (Instance).mat
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/Materials/N00_008_01_Shoes_01_CLOTH
+    (Instance).mat
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/Materials/N00_010_01_Onepiece_00_CLOTH
+    (Instance).mat
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_01.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_01_Toon.bmp
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_02.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_02_Toon.bmp
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_03.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_03_Toon.bmp
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_04.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_04_Toon.bmp
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_05.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_06.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_06_Toon.bmp
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_07.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_07_Toon.bmp
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_08.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_08_Toon.bmp
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_09.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_09_Toon.bmp
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_10.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_10_Toon.bmp
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_11.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_12.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_12_Toon.bmp
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_13.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_13_Toon.bmp
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_14.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_14_Toon.bmp
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_15.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_15_Toon.bmp
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_16.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_16_Toon.bmp
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_17.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_17_blend.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_17_Toon.bmp
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/_18.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/cheek_dye.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/eye_hachume.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/eye_hau.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/eye_heart.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/eye_nagomi.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/eye_star.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/MatcapWarp_01.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/MatcapWarp_02.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/N00_000_00_Face_00_out.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/N00_000_00_HairBack_00_nml.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/N00_000_Hair_00_nml.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/Shader_NoneBlack.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/Shader_NoneNormal.png
+  - Assets/Resources/Models/Characters/Amaryllis Spec Ops/tex/Thumbnail.png
+  - Assets/Resources/Prefabs/ModCharacter.prefab
+  - Assets/Scenes/Modding Scene.unity
+  - Assets/Scripts/Modding/Mod Importing/BaseSettings.cs
+  - Assets/Scripts/Shaders/LICENSE
+  - Assets/Scripts/Shaders/NiloInvLerpRemap.hlsl
+  - Assets/Scripts/Shaders/NiloOutlineUtil.hlsl
+  - Assets/Scripts/Shaders/NiloZOffset.hlsl
+  - Assets/Scripts/Shaders/README.md
+  - Assets/Scripts/Shaders/SimpleURPToonLitOutlineExample.shader
+  - Assets/Scripts/Shaders/SimpleURPToonLitOutlineExample_LightingEquation.hlsl
+  - Assets/Scripts/Shaders/SimpleURPToonLitOutlineExample_Shared.hlsl
+  _sharedPackages:
+  - com.unity.render-pipelines.universal
