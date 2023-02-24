@@ -1,2 +1,11 @@
 
 Library/
+Logs/
+Exports/
+Backup/
+Assets/Scenes/Testing/
+Assets/Scenes/Testing.meta
+Assets/Resources/Models/Characters/Testing/
+VeraFlare.csproj
+RosettaRigor.csproj
+LivLuxFlorescence.csproj
